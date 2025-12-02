@@ -1,5 +1,3 @@
-SAA
+Hello world!
 12345
 Good bye!
-ne smotrim eto video!
-Line from user1
